@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Monty-TheCoder.
-- 👀 I’m interested in web development.
-- 🌱  I’m currently learning and expanding my skills in React, Node.js, Nuxt.js, and Vue.js technologies.
-- 💞️  I’m looking to collaborate on exciting web development projects that leverage modern technologies and push boundaries.
-- 📫 How to reach me ...
+- 👀 I’m a software developer/web developer.
+- 🌱 I’m currently learning and expanding my skills in React, Node.js,Nest js, Nuxt.js, and Vue.js technologies.
+- 💞️ I’m looking to collaborate on exciting web development projects that leverage modern technologies and push boundaries.
+- 📫 How to reach me mail:sumitkumarpatro176@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact:  I have a secret talent for making incredibly delicious homemade items from scratch!
 
